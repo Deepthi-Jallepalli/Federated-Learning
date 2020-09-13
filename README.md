@@ -1,1 +1,1 @@
-Research on implementing Federated Learning acrhitecture for object detection
+Research on implementing Federated Learning architecture for object detection
